@@ -57,6 +57,3 @@ title('magnitude response butterworth LPF');
 ![7](https://github.com/user-attachments/assets/e99fc13f-5bee-44bf-887b-53414681da2d)
 
 
-
-
-## RESULT:
